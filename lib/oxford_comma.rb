@@ -1,8 +1,3 @@
-def oxford_comma(array)
-array["kiwi"].join
- return array
-end
-def oxford_comma(array)
 
 end 
   if array.length == 1
