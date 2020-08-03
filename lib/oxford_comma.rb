@@ -1,5 +1,5 @@
 def oxford_comma(array)
- array = ["kiki"].join
+ array = ["kiki", "durian"].join
  return array
 end 
  
